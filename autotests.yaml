@@ -1,4 +1,4 @@
-name: autotests
+go testname: autotests
 
 on:
   pull_request:
